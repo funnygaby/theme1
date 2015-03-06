@@ -6150,7 +6150,7 @@ table.table_block td {
 
 .page-heading {
   font: 600 18px/22px "Open Sans", sans-serif;
-  color: #555454;
+  color: rgba(0, 0, 0, 0.8);
   text-transform: uppercase;
   padding: 0px 0px 17px 0px;
   margin-bottom: 30px;
