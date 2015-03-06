@@ -5363,7 +5363,7 @@ p.info-account {
   padding: 6px 10px; }
 
 label {
-  color: #333333; }
+  color: #FFFFFF; /*#333333*/ }
   label.required:before {
     content: "*";
     color: red;
