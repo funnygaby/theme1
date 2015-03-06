@@ -528,6 +528,7 @@ span.view_scroll_spacer {
     margin-bottom: 7px;
     padding: 15px 0 0; /*15px 10px 0*/ }
   #center_column.col-sm-9 .col-md-3 .box-info-product .exclusive {
+      margin-left: 10px;
     padding: 0;
     border-top: 1px solid #0079b6;
     border-right: 1px solid #006fa8;
