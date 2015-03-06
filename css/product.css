@@ -300,7 +300,7 @@ span.view_scroll_spacer {
       font-weight: 700;
       color: rgba(255, 255, 255, 0.8); /*#333333*/ }
   .pb-center-column #short_description_block {
-    color: #666666; }
+    /*color: #666666;*/ }
     .pb-center-column #short_description_block .buttons_bottom_block {
       display: none; }
     .pb-center-column #short_description_block #short_description_content {
