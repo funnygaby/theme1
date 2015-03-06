@@ -1147,7 +1147,8 @@ header .row #header_logo,
     margin-left: 91.66667%; } }
 table {
   max-width: 100%;
-  background-color: transparent; }
+  background-color: transparent;
+    color: #000000; }
 
 th {
   text-align: left; }
