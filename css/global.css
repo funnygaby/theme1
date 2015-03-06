@@ -5244,7 +5244,7 @@ body {
   height: 100%;
   line-height: 18px;
   font-size: 13px;
-  color: #777777; }
+  color: rgba(255, 255, 255, 0.8); /*#777777*/ }
   body.content_only {
     background: none; }
 
