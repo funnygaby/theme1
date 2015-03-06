@@ -227,7 +227,7 @@ span.view_scroll_spacer {
       border: none;
       padding: 0; }
     #usefull_link_block li a {
-      color: #777676;
+      color: #FFFFFF; /*#777676*/
       font-weight: 700;
       position: relative;
       padding-left: 30px;
