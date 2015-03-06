@@ -5371,6 +5371,9 @@ label {
     position: relative;
     line-height: 12px; }
 
+.product_attributes.clearfix label{
+    color: #666666;}
+
 .unvisible {
   display: none; }
 
