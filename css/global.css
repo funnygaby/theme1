@@ -6159,7 +6159,7 @@ table.table_block td {
   .page-heading span.heading-counter {
     font: bold 13px/22px Arial, Helvetica, sans-serif;
     float: right;
-    color: #333333;
+    /*color: #333333;*/
     text-transform: none;
     margin-bottom: 10px; }
     @media (max-width: 480px) {
