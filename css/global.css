@@ -5809,7 +5809,8 @@ table.table_block td {
 
 .price.product-price {
   font: 600 21px/26px "Open Sans", sans-serif;
-  color: #333333; }
+  color: #000000; /*#333333*/
+    text-shadow: white 0 0 20px; }
 
 .old-price {
   color: #6f6f6f;
