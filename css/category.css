@@ -65,10 +65,10 @@
             vertical-align: top; }
       #subcategories ul li .subcategory-name {
         font: 600 18px/22px "Open Sans", sans-serif;
-        color: #555454;
+        color: rgba(255, 255, 255, 0.8); /*#555454*/
         text-transform: uppercase; }
         #subcategories ul li .subcategory-name:hover {
-          color: #515151; }
+          color: #FFFFFF; /*#515151;*/}
       #subcategories ul li .cat_desc {
         display: none; }
       #subcategories ul li:hover .subcategory-image a {
