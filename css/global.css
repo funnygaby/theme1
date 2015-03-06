@@ -7916,6 +7916,7 @@ div.star.star_hover:after {
   padding-bottom: 10px; }
 
 #cmsinfo_block {
+    color: black;
   border-left: 1px solid #d9d9d9; }
   @media (max-width: 767px) {
     #cmsinfo_block {
