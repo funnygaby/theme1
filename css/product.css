@@ -526,7 +526,7 @@ span.view_scroll_spacer {
   border-bottom: 1px solid #b0afaf; }
   #center_column.col-sm-9 .col-md-3 .box-info-product p {
     margin-bottom: 7px;
-    padding: 15px 10px 0; }
+    padding: 15px 0 0; /*15px 10px 0*/ }
   #center_column.col-sm-9 .col-md-3 .box-info-product .exclusive {
     padding: 0;
     border-top: 1px solid #0079b6;
