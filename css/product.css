@@ -298,7 +298,7 @@ span.view_scroll_spacer {
     margin-bottom: 6px; }
     .pb-center-column #product_reference span {
       font-weight: 700;
-      color: #333333; }
+      color: rgba(255, 255, 255, 0.8); /*#333333*/ }
   .pb-center-column #short_description_block {
     color: #666666; }
     .pb-center-column #short_description_block .buttons_bottom_block {
