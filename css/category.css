@@ -43,7 +43,7 @@
   padding: 15px 0 0px 0; }
   #subcategories p.subcategory-heading {
     font-weight: bold;
-    color: #333333;
+    color: rgba(255, 255, 255, 0.8); /*#333333*/
     margin: 0 0 15px 0; }
   #subcategories ul {
     margin: 0 0 0 -20px; }
