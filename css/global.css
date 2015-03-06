@@ -5795,14 +5795,14 @@ table.table_block td {
   font-size: 20px; /*17px*/
     text-decoration: underline;
   line-height: 23px;
-  color: #3a3939;
+  color: rgba(255, 255, 255, 0.8); /*#3a3939*/
   margin-bottom: 0; }
   .product-name a {
     font-size: 17px;
     line-height: 23px;
     color: #3a3939; }
     .product-name a:hover {
-      color: #515151; }
+      color: white; /*#515151*/ }
     @media (max-width: 768px) {
       .product-name a {
         font-size: 14px; } }
