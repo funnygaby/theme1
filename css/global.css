@@ -6253,7 +6253,7 @@ ul.footer_links {
     text-align: center; }
     .content_sortPagiBar .display li a,
     .content_sortPagiBar .display_m li a {
-      color: gray;
+      color: #FFFFFF; /*gray*/
       font-size: 11px;
       line-height: 14px;
       cursor: pointer; }
@@ -6273,11 +6273,11 @@ ul.footer_links {
       cursor: default; }
     .content_sortPagiBar .display li.selected i,
     .content_sortPagiBar .display_m li.selected i {
-      color: #333333; }
+      color: #000000; /*#333333*/ }
     .content_sortPagiBar .display li.display-title,
     .content_sortPagiBar .display_m li.display-title {
       font-weight: bold;
-      color: #333333;
+      color: #FFFFFF; /*#333333*/
       padding: 7px 6px 0 0; }
 
 .top-pagination-content,
