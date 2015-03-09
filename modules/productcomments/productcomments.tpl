@@ -101,7 +101,7 @@
 				</a>
 			</p>
 			{else}
-			<p class="align_center">{l s='Pas d'avis sur ce produit pour le moment.' mod='productcomments'}</p>
+			<p class="align_center">{l s='Pas d\'avis sur ce produit pour le moment.' mod='productcomments'}</p>
 			{/if}
 		{/if}
 	</div> <!-- #product_comments_block_tab -->
