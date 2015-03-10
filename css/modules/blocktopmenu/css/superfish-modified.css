@@ -143,7 +143,7 @@ ul.sf-menu li li li.sfHover ul {
   width: 100%; }
   .sf-menu > li > ul > li > a {
     text-transform: uppercase;
-    font: 600 16px/20px Sansation_Regular; /*"Open Sans", sans-serif*/
+    font: 600 16px/20px Sansation_Bold; /*"Open Sans", sans-serif*/
     color: #333333; }
     .sf-menu > li > ul > li > a:hover {
       color: #515151; }
