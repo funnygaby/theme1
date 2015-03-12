@@ -25,6 +25,27 @@
     font-weight: bold;
     font-style: normal;
 }
+@media (min-width: 1008px) {
+    .social_fun{
+        height: 50px;
+        position: fixed;
+        right: -160px;
+        transition: right 0.7s ease 0.2s;
+        -webkit-transition: right 0.5s; /* Safari */
+        top: 5px;
+        width: 300px !important;
+        z-index: 6000;
+        padding: 0 !important;
+        }
+    .social_fun:hover{
+        height: 50px;
+        position: fixed;
+        right: 0px;
+        top: 5px;
+        width: 300px !important;
+        z-index: 6000;
+        padding: 0 !important;
+    }}
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,

@@ -24,7 +24,7 @@
 *  International Registered Trademark & Property of PrestaShop SA
 *}
 
-<section id="social_block">
+<section id="social_block" class="social_fun">
 	<ul>
 		{if $facebook_url != ''}
 			<li class="facebook">
