@@ -22,10 +22,9 @@
 *  @license    http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
 *  International Registered Trademark & Property of PrestaShop SA
 */
-
 $(document).ready(function(){
 	$('ul.tree.dhtml').hide();
-    
+
 	//to do not execute this script as much as it's called...
 	if(!$('ul.tree.dhtml').hasClass('dynamized'))
 	{
@@ -33,9 +32,8 @@ $(document).ready(function(){
 		$('ul.tree.dhtml ul').prev().before("<span class='grower OPEN'> </span>");
 		
 		//dynamically add the '.last' class on each last item of a branch
-		$('ul.tree.dhtml ul li:last-child, ul.tree.dhtml li:last-child').addClass('last col-sm-2');
-        //Normalement ajoute col-sm-2 en class aux li
-		$('ul.tree.dhtml ul li, ul.tree.dhtml li').addClass('col-sm-2');
+		$('ul.tree.dhtml ul li:last-child, ul.tree.dhtml li:last-child').addClass('last');
+		
 		//collapse every expanded branch
 		$('ul.tree.dhtml span.grower.OPEN').addClass('CLOSE').removeClass('OPEN').parent().find('ul:first').hide();
 		$('ul.tree.dhtml').show();

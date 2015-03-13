@@ -24,14 +24,14 @@
 *}
 
 <!-- Block categories module -->
-<section class="blockcategories_footer footer-block col-xs-12 col-sm-12">
-	<h4 class="categories_fun">{l s='Categories' mod='blockcategories'}</h4>
+<section class="blockcategories_footer footer-block col-xs-12 col-sm-2">
+	<h4>{l s='Categories' mod='blockcategories'}</h4>
 	<div class="category_footer toggle-footer">
-		<div class="list row">
+		<div class="list">
 			<ul class="tree {if $isDhtml}dhtml{/if}">
-			{foreach from=$blockCategTree.children item=child name=blockCategTree }
+			{foreach from=$blockCategTree.children item=child name=blockCategTree}
 				{if $smarty.foreach.blockCategTree.last}
-                    {include file="$branche_tpl_path" node=$child last='true'}
+					{include file="$branche_tpl_path" node=$child last='true'}
 				{else}
 					{include file="$branche_tpl_path" node=$child}
 				{/if}
