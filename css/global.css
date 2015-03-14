@@ -45,9 +45,23 @@
         width: 300px !important;
         z-index: 6000;
         padding: 0 !important;
-    }}
+   }
+    .footer-container{
+        background-image: url(../img/pneu1.png) !important;
+        background-position: center center !important;
+        background-repeat: no-repeat !important;
+        background-attachment: scroll !important;
+        background-size: cover !important;
+        -moz-background-size: 100% 100%;
+        -o-background-size: 100% 100%;  
+        -webkit-background-size: 100% 100%;
+        background-size: 100% 100%;
+        background-color: rgb(0, 70, 25) !important;}}
+
 .footer-container .footer-block {
     margin-top: 5px !important;}
+#newsletter_block_left h4{
+    text-shadow: 10px 20px 2px #fff;}
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
