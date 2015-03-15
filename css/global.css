@@ -26,6 +26,16 @@
     font-style: normal;
 }
 @media (min-width: 1008px) {
+	
+    .social_fun{
+        height: 50px;
+        position: fixed;
+        right: 30px;
+        top: 5px;
+        width: 30px !important;
+        z-index: 6000;
+        padding: 95px 0 0 !important;}
+    
    .footer-container{
         background-image: url(../img/pneu1.png) !important;
         background-position: center center !important;
