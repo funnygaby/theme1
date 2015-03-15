@@ -4,9 +4,9 @@
   margin-bottom: 40px; }
 
 .top-hr {
-  background: #c4c4c4;
-  height: 5px;
-  margin: 2px 0 31px; }
+  /*background: #c4c4c4;
+    margin: 2px 0 31px;*/
+    height: 5px;    }
 
 .product-heading-h5 {
   color: #999999;
