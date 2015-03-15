@@ -5842,6 +5842,9 @@ table.table_block td {
   .table tfoot tr {
     background: #fbfbfb; }
 
+  .table tbody tr {
+    background: #fbfbfb; }
+    
 .product-name {
   font-size: 20px; /*17px*/
     text-decoration: underline;
