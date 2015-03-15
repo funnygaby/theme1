@@ -37,7 +37,7 @@
 			<li class="twitter">
 				<a target="_blank" href="{$twitter_url|escape:html:'UTF-8'}">
 					<span>{l s='Twitter' mod='blocksocial'}</span>
-				</a>
+				</a></br>
 			</li>
 		{/if}
 		{if $rss_url != ''}
@@ -69,6 +69,6 @@
         	</li>
         {/if}
 	</ul>
-    <h4>{l s='Follow us' mod='blocksocial'}</h4>
+    <!-- <h4>{l s='Follow us' mod='blocksocial'}</h4> -->
 </section>
 <div class="clearfix"></div>
