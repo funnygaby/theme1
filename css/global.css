@@ -6883,7 +6883,8 @@ div.star a:hover {
         font-weight: bold;
         text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.4); }
     .footer-container #footer #block_contact_infos {
-      border-left: 1px solid #515151; }
+      border-left: 1px solid #FFFFFF; /*#515151*/
+	    border-radius: 10%; }
       @media (max-width: 767px) {
         .footer-container #footer #block_contact_infos {
           border: none; } }
