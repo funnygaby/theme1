@@ -70,7 +70,7 @@
   .sf-menu > li.sfHover > a,
   .sf-menu > li > a:hover, .sf-menu > li.sfHoverForce > a {
     background: #333333;
-    border-bottom-color: #004619; /*** #666666 ***/
+    border-bottom-color: #E4B716; /*** #666666 ***/
     color: white; }
 
 .sf-menu li li li a {

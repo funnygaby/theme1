@@ -70,6 +70,9 @@ time, mark, audio, video {
   font-size: 100%;
   vertical-align: baseline; }
 
+.ajax_cart_no_product{
+	color: #E4B716 !important; }
+  
 html {
   line-height: 1; }
 

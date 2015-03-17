@@ -134,7 +134,7 @@
   height: 52px;
   text-indent: -9999px;
   z-index: 9999;
-  border: 2px solid white; }
+  border: 2px solid #E4B716; /*white*/ }
   #homepage-slider .bx-wrapper .bx-controls-direction a:before {
     height: 48px;
     width: 48px;
@@ -151,7 +151,7 @@
     display: block;
     width: 48px;
     height: 48px;
-    color: white;
+    color: #E4B716; /*white*/
     text-indent: 0;
     text-align: center;
     font-size: 21px;
