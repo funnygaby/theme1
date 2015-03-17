@@ -67,7 +67,8 @@
         content: "\f138";
         font-family: "FontAwesome";
         font-size: 28px;
-        line-height: 28px; }
+        line-height: 28px;
+		color: #E4B716;}
       #footer #newsletter_block_left .form-group .button-small:hover {
         color: white !important; }
       #footer #newsletter_block_left .form-group .button-small span {
