@@ -25,6 +25,8 @@
     font-weight: bold;
     font-style: normal;
 }
+.bottom-footer{
+	padding: 15px; }
 @media (min-width: 1008px) {
 	
     .social_fun{
@@ -6978,14 +6980,16 @@ div.star a:hover {
           .footer-container #footer #social_block h4 {
             display: none;
             text-align: center; } }
+	
     .footer-container #footer .bottom-footer {
       position: absolute;
       bottom: -55px;
       left: 0; }
       .footer-container #footer .bottom-footer div {
         padding: 15px 0 0 0;
-        border-top: 1px solid #515151;
-        width: 100%; }
+        border-top: 1px solid #FFFFFF; /*#515151*/
+        width: 100%; 
+		border-radius: 40%; }		
 
 #reinsurance_block {
   clear: both !important; }
