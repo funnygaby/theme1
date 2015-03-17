@@ -1,4 +1,5 @@
 .shop-phone {
+  color: #E4B716;
   float: left;
   padding: 5px 0 10px;
   line-height: 18px; }
@@ -8,7 +9,7 @@
   .shop-phone i {
     font-size: 21px;
     line-height: 21px;
-    color: #E4B716; /*white*/
+    color: white;
     padding-right: 7px; }
   .shop-phone strong {
     color: white; }
