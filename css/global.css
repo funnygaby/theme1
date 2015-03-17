@@ -6949,17 +6949,23 @@ div.star a:hover {
             .footer-container #footer #social_block ul li a:hover {
               color: white; }
           .footer-container #footer #social_block ul li.facebook a:before {
-            content: "\f09a"; }
+            content: "\f09a";
+			color: #E4B716; }
           .footer-container #footer #social_block ul li.twitter a:before {
-            content: "\f099"; }
+            content: "\f099";
+			color: #E4B716; }
           .footer-container #footer #social_block ul li.rss a:before {
-            content: "\f09e"; }
+            content: "\f09e";
+			color: #E4B716;	}
           .footer-container #footer #social_block ul li.youtube a:before {
-            content: "\f167"; }
+            content: "\f167";
+			color: #E4B716; }
           .footer-container #footer #social_block ul li.google-plus a:before {
-            content: "\f0d5"; }
+            content: "\f0d5";
+			color: #E4B716;	}
           .footer-container #footer #social_block ul li.pinterest a:before {
-            content: "\f0d2"; }
+            content: "\f0d2"; 
+			color: #E4B716; }
       .footer-container #footer #social_block h4 {
         float: right;
         margin-bottom: 0;
