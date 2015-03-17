@@ -3,7 +3,7 @@
   border-left: 1px solid #515151;
   border-right: 1px solid #515151; }
   .header_user_info a {
-    color: white;
+    color: #E4B716; /*white*/
     font-weight: bold;
     display: block;
     padding: 8px 9px 11px 8px;

@@ -8,7 +8,7 @@
   .shop-phone i {
     font-size: 21px;
     line-height: 21px;
-    color: white;
+    color: #E4B716; /*white*/
     padding-right: 7px; }
   .shop-phone strong {
     color: white; }
@@ -22,7 +22,7 @@
       text-align: center; } }
   #contact-link a {
     display: block;
-    color: white;
+    color: #E4B716; /*white*/
     font-weight: bold;
     padding: 8px 10px 11px 10px;
     text-shadow: 1px 1px rgba(0, 0, 0, 0.2);
