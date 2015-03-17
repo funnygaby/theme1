@@ -4194,7 +4194,8 @@ a .icon-rotate-90:before, a .icon-rotate-180:before, a .icon-rotate-270:before, 
   content: "\f002"; }
 
 .icon-envelope-alt:before {
-  content: "\f003"; }
+  content: "\f003";
+	color: #E4B716;  }
 
 .icon-heart:before {
   content: "\f004"; }
@@ -4371,7 +4372,8 @@ a .icon-rotate-90:before, a .icon-rotate-180:before, a .icon-rotate-270:before, 
   content: "\f040"; }
 
 .icon-map-marker:before {
-  content: "\f041"; }
+  content: "\f041";
+	color: #FFFFFF;  }
 
 .icon-adjust:before {
   content: "\f042"; }
@@ -4610,7 +4612,8 @@ a .icon-rotate-90:before, a .icon-rotate-180:before, a .icon-rotate-270:before, 
   content: "\f094"; }
 
 .icon-phone:before {
-  content: "\f095"; }
+  content: "\f095";
+	color: #FFFFFF;  }
 
 .icon-unchecked:before,
 .icon-check-empty:before {
@@ -6838,7 +6841,7 @@ div.star a:hover {
   .footer-container .container {
     padding-bottom: 100px; }
   .footer-container #footer {
-    color: #777777; }
+    color: #FFFFFF; /*#777777*/ }
     .footer-container #footer .row {
       position: relative; }
     .footer-container #footer .footer-block {
@@ -6847,7 +6850,7 @@ div.star a:hover {
         .footer-container #footer .footer-block {
           margin-top: 20px; } }
     .footer-container #footer a {
-      color: #777777; }
+      color: #E4B716; /*#777777*/ }
       .footer-container #footer a:hover {
         color: white; }
     .footer-container #footer h4 {
