@@ -30,8 +30,8 @@
     .social_fun{
         height: 50px;
         position: fixed;
-        right: 30px;
-        top: 5px;
+        right: 0;
+        top: -50px;
         width: 30px !important;
         z-index: 6000;
         padding: 95px 0 0 !important;}
