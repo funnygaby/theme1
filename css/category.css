@@ -59,7 +59,7 @@
         #subcategories ul li .subcategory-image a {
           display: block;
           padding: 9px;
-          /*border: 1px solid #d6d4d4;*/ 
+          border: 1px solid rgba(0,0,0,0); /* anti-crenelage firefox */ /*border: 1px solid #d6d4d4;*/ 
 		  }
           #subcategories ul li .subcategory-image a img {
             max-width: 100%;
