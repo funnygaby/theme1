@@ -71,6 +71,15 @@
           color: #FFFFFF; /*#515151;*/}
       #subcategories ul li .cat_desc {
         display: none; }
+	#page:hover .subcategory-image a {
+		transition: 0.3s;
+		transform: rotateX(0deg);}
       #subcategories ul li:hover .subcategory-image a {
-        border: 4px solid #FFFFFF; /*5px solid #333333*/
-        padding: 5px; }
+        /* border: 4px solid #FFFFFF; /*5px solid #333333*/
+       padding: 0; /*5px;*/
+      transition: 0.5s;
+      transform-origin: 0px 0px;
+      transform: rotateX(-15deg);}
+	#center_column:hover .subcategory-image a {
+		transition: 0.3s;
+		transform: rotateX(15deg);}
