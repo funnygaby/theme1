@@ -27,5 +27,6 @@
 </div>
 {if $telnumber}
 	<span class="shop-phone">
+		<i class="icon-mobile-phone" style="color:white;"></i>{l s='Call us now:' mod='blockcontact'} <strong>{$telnumber}</strong>
 	</span>
 {/if}
