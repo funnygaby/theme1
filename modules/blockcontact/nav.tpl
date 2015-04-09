@@ -27,6 +27,5 @@
 </div>
 {if $telnumber}
 	<span class="shop-phone">
-		<i class="icon-phone"></i>{l s='Call us now:' mod='blockcontact'} <strong>{$telnumber}</strong>
 	</span>
 {/if}
