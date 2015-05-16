@@ -6895,6 +6895,7 @@ div.star a:hover {
           .footer-container #footer #block_contact_infos > div {
             padding-left: 0; } }
         .footer-container #footer #block_contact_infos > div ul li {
+            color: #e4b716;
           padding: 0 0 7px 4px;
           overflow: hidden;
           line-height: 30px; }
