@@ -69,10 +69,13 @@ time, mark, audio, video {
   font-family: sans-serif;
   font-size: 100%;
   vertical-align: baseline;
+color: #e4b716; }
+
+.type-text p { 
 color: black; }
 
 #product h1 {
-    color: black; }
+    color: #e4b716; }
 
 .bottom-footer div{
     color: white; }

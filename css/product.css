@@ -1,3 +1,7 @@
+#quantityAvailable #quantityAvailableTxt #quantityAvailableTxtMultiple {
+    color:#e4b716; }
+#pQuantityAvailable span {
+    color:#e4b716 !important; }
 /* product desc */
 /* primary_block ***************************************************************************** */
 .primary_block {
