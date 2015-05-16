@@ -5859,7 +5859,7 @@ table.table_block td {
   font-size: 20px; /*17px*/
     text-decoration: underline;
   line-height: 23px;
-  color: rgba(255, 255, 255, 0.8); /*#3a3939*/
+  color: #e4b716; /*rgba(255, 255, 255, 0.8); #3a3939*/
   margin-bottom: 0; }
   .product-name a {
     font-size: 17px;
