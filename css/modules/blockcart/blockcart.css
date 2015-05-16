@@ -275,6 +275,7 @@
   -o-border-radius: 4px;
   border-radius: 4px; }
   #layer_cart .layer_cart_product {
+      color: black;
     padding: 30px 30px 30px 30px;
     overflow: hidden;
     position: static; }
@@ -318,6 +319,7 @@
         #layer_cart .layer_cart_product .layer_cart_product_info > div strong {
           padding-right: 3px; }
   #layer_cart .layer_cart_cart {
+      color: black;
     background: #fafafa;
     border-left: 1px solid #d6d4d4;
     padding: 21px 30px 170px 30px;
