@@ -313,7 +313,8 @@
       padding: 38px 0 0 0; }
       #layer_cart .layer_cart_product .layer_cart_product_info #layer_cart_product_title {
         display: block;
-        padding-bottom: 8px; }
+        padding-bottom: 8px;
+      color: #e4b716;}
       #layer_cart .layer_cart_product .layer_cart_product_info > div {
         padding-bottom: 7px; }
         #layer_cart .layer_cart_product .layer_cart_product_info > div strong {
