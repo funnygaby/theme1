@@ -83,6 +83,9 @@ color: black !important; }
 .addresses p strong { 
 color: white; }
 
+#cmsinfo_block p{
+    color: black; }
+
 .center_column p{
     color: white; }
 
