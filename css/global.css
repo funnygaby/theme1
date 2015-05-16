@@ -5381,7 +5381,7 @@ header {
 
 p.info-title {
   font-weight: bold;
-  color: white; /*#333333;*/
+  color: #e4b716; /*white; #333333;*/
   margin-bottom: 25px; }
 
 p.info-account {
