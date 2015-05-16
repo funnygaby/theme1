@@ -68,7 +68,8 @@ time, mark, audio, video {
   /*font: inherit;*/
   font-family: sans-serif;
   font-size: 100%;
-  vertical-align: baseline; }
+  vertical-align: baseline;
+color: black; }
 
 .ajax_cart_no_product{
 	color: #E4B716 !important; }
@@ -5421,7 +5422,7 @@ p.info-account {
   padding: 6px 10px; }
 
 label {
-  color: #FFFFFF; /*#333333*/ }
+  color: #e4b716; /*#333333*/ }
   label.required:before {
     content: "*";
     color: red;
