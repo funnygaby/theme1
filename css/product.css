@@ -739,7 +739,7 @@ table.table-product-discounts {
 
 #pQuantityAvailable span {
   font-weight: 700;
-  color: #FFFFFF; /*#333333*/ }
+  color: #e4b716; /*#FFFFFF; #333333*/ }
 
 #availability_statut #availability_value.warning_inline {
   background-color: #fe9126;

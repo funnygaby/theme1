@@ -71,6 +71,9 @@ time, mark, audio, video {
   vertical-align: baseline;
 color: black; }
 
+#product h1 {
+    color: black; }
+
 .bottom-footer div{
     color: white; }
 
