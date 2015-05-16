@@ -72,7 +72,7 @@ time, mark, audio, video {
 color: #e4b716; }
 
 .type-text p { 
-color: black; }
+color: black !important; }
 
 #product h1 {
     color: #e4b716; }
