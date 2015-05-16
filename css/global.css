@@ -71,8 +71,14 @@ time, mark, audio, video {
   vertical-align: baseline;
 color: black; }
 
+.addresses p strong { 
+color: white; }
+
+.center_column p{
+    color: white; }
+
 .account span{
-color: #e4b716;}
+color: #e4b716; }
 
 .ajax_cart_no_product{
 	color: #E4B716 !important; }
