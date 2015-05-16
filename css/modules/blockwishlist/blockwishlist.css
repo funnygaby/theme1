@@ -1,3 +1,6 @@
+.lnkdel i {
+    color: white; }
+
 /* lnk on detail product page */
 #wishlist_button {
     margin-left: 10px;
@@ -88,11 +91,11 @@
   margin-bottom: 20px; }
   #module-blockwishlist-mywishlist .wishlistLinkTop ul.display_list a {
     display: inline-block;
-    color: #333333;
+    color: white; /*#333333;*/
     margin: 10px 10px 10px 0px;
     font-weight: bold; }
     #module-blockwishlist-mywishlist .wishlistLinkTop ul.display_list a:hover {
-      color: #515151; }
+      color: whitesmoke; /*#515151;*/ }
 
 #module-blockwishlist-mywishlist .wishlistLinkTop li {
   float: left; }
