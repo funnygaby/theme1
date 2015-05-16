@@ -71,6 +71,9 @@ time, mark, audio, video {
   vertical-align: baseline;
 color: black; }
 
+.account span{
+color: #e4b716;}
+
 .ajax_cart_no_product{
 	color: #E4B716 !important; }
   
