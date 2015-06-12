@@ -2906,6 +2906,12 @@ input[type="button"].btn-block {
   border: 1px solid #36943e; }
   .label-success[href]:hover, .label-success[href]:focus {
     background-color: #3aae43; }
+	
+	.label-available_later {
+  background-color: #FF5700;
+  border: 1px solid #941313; }
+  .label-available_later[href]:hover, .label-available_later[href]:focus {
+    background-color: #3aae43; }
 
 .label-info {
   background-color: #5192f3;
