@@ -2908,10 +2908,11 @@ input[type="button"].btn-block {
     background-color: #3aae43; }
 	
 	.label-available_later {
-  background-color: #FF5700;
-  border: 1px solid #941313; }
+  background-color: #fe9126;
+  border: 1px solid #e4752b;
+  text-shadow: 1px 1px #e68322;  }
   .label-available_later[href]:hover, .label-available_later[href]:focus {
-    background-color: #D54900; }
+    background-color: #fe9126; }
 
 .label-info {
   background-color: #5192f3;
