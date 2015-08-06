@@ -26,7 +26,6 @@
     font-style: normal;
 }
 @media (min-width: 1008px) {
-	
     .social_fun{
         height: 50px;
         position: fixed;
@@ -35,7 +34,7 @@
         width: 30px !important;
         z-index: 6000;
         padding: 95px 0 0 !important;}
-    
+
    .footer-container{
         background-image: url(../img/pneu1.png) !important;
         background-position: center center !important;
@@ -43,7 +42,7 @@
         background-attachment: scroll !important;
         background-size: cover !important;
         -moz-background-size: 100% 100%;
-        -o-background-size: 100% 100%;  
+        -o-background-size: 100% 100%;
         -webkit-background-size: 100% 100%;
         background-size: 100% 100%;
         background-color: rgb(0, 70, 25) !important;}}
@@ -71,7 +70,7 @@ time, mark, audio, video {
   vertical-align: baseline;
 color: #e4b716; }
 
-.type-text p { 
+.type-text p {
 color: black !important; }
 
 #product h1 {
@@ -80,7 +79,7 @@ color: black !important; }
 .bottom-footer div{
     color: white; }
 
-.addresses p strong { 
+.addresses p strong {
 color: white; }
 
 #cmsinfo_block p{
@@ -94,7 +93,7 @@ color: #e4b716; }
 
 .ajax_cart_no_product{
 	color: #E4B716 !important; }
-  
+
 html {
   line-height: 1; }
 
@@ -2906,7 +2905,7 @@ input[type="button"].btn-block {
   border: 1px solid #36943e; }
   .label-success[href]:hover, .label-success[href]:focus {
     background-color: #3aae43; }
-	
+
 	.label-available_later {
   background-color: #fe9126;
   border: 1px solid #e4752b;
@@ -5880,7 +5879,7 @@ table.table_block td {
 
   .table tbody tr {
     background: #fbfbfb; }
-    
+
 .product-name {
   font-size: 20px; /*17px*/
     text-decoration: underline;
@@ -6996,7 +6995,7 @@ div.star a:hover {
             content: "\f0d5";
 			color: #E4B716;	}
           .footer-container #footer #social_block ul li.pinterest a:before {
-            content: "\f0d2"; 
+            content: "\f0d2";
 			color: #E4B716; }
       .footer-container #footer #social_block h4 {
         float: right;
@@ -7009,7 +7008,7 @@ div.star a:hover {
           .footer-container #footer #social_block h4 {
             display: none;
             text-align: center; } }
-	
+
     .footer-container #footer .bottom-footer {
       position: absolute;
       bottom: -55px;
@@ -7017,9 +7016,9 @@ div.star a:hover {
       .footer-container #footer .bottom-footer div {
         padding: 15px 0 0 0;
         border-top: 1px solid #FFFFFF; /*#515151*/
-        width: 100%; 
-		border-radius: 40%; 
-		text-align: center; }		
+        width: 100%;
+		border-radius: 40%;
+		text-align: center; }
 
 #reinsurance_block {
   clear: both !important; }
